@@ -16,7 +16,7 @@ To apply Vanishing Point Perspective to your own images, you can use the `applyV
 
 Fish-Eye Perspective is a technique that simulates the distortion caused by viewing an object through a fish-eye lens. This effect is achieved by warping the image so that straight lines appear curved.
 
-To apply Fish-Eye Perspective to your own images, you can use the `applyFishEyeEffect()` function in the `fishEyeEffect.html` file. This function takes as input the image to be distorted, as well as the strength of the fish-eye effect.
+To apply Fish-Eye Perspective to your own images, you can use the `applyFishEyePerspective()` function in the `applyFishEyePerspective.html` file. This function takes as input the image to be distorted, as well as the strength of the fish-eye effect.
 
 ## Stereographic Projection
 
@@ -26,5 +26,5 @@ To apply Stereographic Projection to your own images, you can use the `applySter
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
