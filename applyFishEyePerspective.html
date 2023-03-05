@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+
+<canvas id="canvas"></canvas>
+    <img id="image" src="https://images.unsplash.com/photo-1462899006636-339e08d1844e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80">
+
+<script>
+
+const canvas = document.getElementById('canvas');
+const context = canvas.getContext('2d');
+const image = document.getElementById('image');
+
+function applyFishEyePerspective() {
+ 
+const imageWidth = image.width;
+const imageHeight = image.height;
+canvas.width = imageWidth;
+canvas.height = imageHeight;
+
+const centerX = imageWidth / 2;
+const centerY = imageHeight / 2;
+
+context.drawImage(image,0,0);
+
+const strength = 1;
+const radius = Math.min(centerX, centerY) * strength;
+
+for (let x = 0; x < imageWidth; x++) {
+  for (let y = 0; y < imageHeight; y++) {
+    const dx = x - centerX;
+    const dy = y - centerY;
+    const distance = Math.sqrt(dx * dx + dy * dy);
+  if (distance < radius) {
+  const angle = Math.atan2(dy, dx);
+  const r = distance / radius;
+  const newDistance = r * r * radius;
+  const newX = centerX + newDistance * Math.cos(angle);
+  const newY = centerY + newDistance * Math.sin(angle);
+  context.drawImage(image, x, y, 1, 1, newX, newY, 1, 1);
+}
+  }
+}
+ 
+}
+
+image.addEventListener('load', () => {
+  applyFishEyePerspective();
+});
+
+</script>
+
+</body>
+</html>
