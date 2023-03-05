@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+
+<canvas id="canvas"></canvas>
+<img id="image" src="https://images.unsplash.com/photo-1580990609835-b387d5acce3e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80">
+
+<script>
+
+const canvas = document.getElementById('canvas');
+const context = canvas.getContext('2d');
+const image = document.getElementById('image');
+
+function applyStereographicProjection() {
+
+const imageWidth = image.width;
+const imageHeight = image.height;
+canvas.width = imageWidth;
+canvas.height = imageHeight;
+
+const centerX = imageWidth / 2;
+const centerY = imageHeight/ 2;
+
+context.drawImage(image, 0, 0);
+
+const d = 1;
+
+for (let x = 0; x < imageWidth; x++) {
+for (let y = 0; y < imageHeight; y++) {
+const dx = x - centerX;
+const dy = y - centerY;
+const r = Math.sqrt(dx * dx + dy * dy);
+
+if (r < centerX) {
+const theta = Math.atan2(dy, dx);
+const phi = 4 * Math.atan(d / (4 * r));
+const newX = centerX + Math.sin(phi) * Math.cos(theta) * d / (1 - Math.cos(phi));
+const newY = centerY + Math.sin(phi) * Math.sin(theta) * d / (1 - Math.cos(phi));
+context.drawImage(image, x, y, 1, 1, newX, newY, 1, 1);
+}
+}
+}
+}
+
+image.addEventListener('load', () => {
+applyStereographicProjection();
+});
+
+</script>
+
+
+</body>
+</html>

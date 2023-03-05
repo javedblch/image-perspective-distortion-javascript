@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+
+<canvas id="canvas"></canvas>
+<img id="image" src="https://images.unsplash.com/photo-1494783367193-149034c05e8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80">
+
+<script>
+
+const canvas = document.getElementById('canvas');
+const context = canvas.getContext('2d');
+const image = document.getElementById('image');
+
+let centerX;
+let centerY;
+let horizon;
+let distance;
+let scalingFactor;
+let maxAngle;
+let angleIncrement;
+
+function applyVanishingPointPerspective() {
+
+const imageWidth = image.width;
+const imageHeight = image.height;
+canvas.width = imageWidth;
+canvas.height = imageHeight;
+
+centerX = imageWidth / 2;
+centerY = 0;
+horizon = 0;
+distance = 10000;
+scalingFactor = 1;
+maxAngle = 0;
+angleIncrement = 0;
+
+for (let x = 0; x < imageWidth; x++) {
+for (let y = 0; y < imageHeight; y++) {
+const { x: xPrime, y: yPrime } = vanishingPointPerspective(x, y, centerX, centerY, horizon, distance, scalingFactor, angleIncrement);
+context.drawImage(image, x, y, 1, 1, xPrime, yPrime, 1, 1);
+}
+}
+}
+
+function vanishingPointPerspective(x, y, centerX, centerY, horizon, distance, scalingFactor, angleIncrement) {
+const theta = Math.atan2(y - centerY, x - centerX);
+const distanceFromViewer = Math.sqrt(Math.pow(centerX - x, 2) + Math.pow(centerY - y, 2));
+const distanceFromHorizon = Math.abs(y - horizon);
+const angle = Math.min(maxAngle, angleIncrement * distanceFromViewer);
+const scaling = distance / (distance + distanceFromViewer);
+const z = distanceFromHorizon * scaling * scalingFactor;
+const xPrime = centerX + z * Math.cos(theta + angle);
+const yPrime = centerY + z * Math.sin(theta + angle);
+return { x: xPrime, y: yPrime };
+}
+
+
+image.addEventListener('load', () => {
+applyVanishingPointPerspective();
+});
+
+
+</script>
+
+</body>
+</html>
