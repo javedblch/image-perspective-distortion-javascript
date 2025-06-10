@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8in" height="12in" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 2.18831 3.28246"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+     <mask id="id0">
+       <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="1.85061" y1="2.37839" x2="0.72364" y2="2.35797">
+        <stop offset="0" stop-opacity="1" stop-color="white"/>
+        <stop offset="0.360784" stop-opacity="0.501961" stop-color="white"/>
+        <stop offset="1" stop-opacity="0" stop-color="white"/>
+       </linearGradient>
+      <rect fill="url(#id1)" x="0.47342" y="2.33946" width="1.24146" height="0.07485"/>
+     </mask>
+     <mask id="id2">
+       <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="2.22401" y1="1.86698" x2="0.84118" y2="1.17635">
+        <stop offset="0" stop-opacity="1" stop-color="white"/>
+        <stop offset="0.231373" stop-opacity="0.501961" stop-color="white"/>
+        <stop offset="1" stop-opacity="0" stop-color="white"/>
+       </linearGradient>
+      <rect fill="url(#id3)" x="-0.00041" y="0.59964" width="2.18913" height="1.74064"/>
+     </mask>
+     <mask id="id4">
+       <linearGradient id="id5" gradientUnits="userSpaceOnUse" x1="0.8429" y1="3.31686" x2="0.63676" y2="1.81118">
+        <stop offset="0" stop-opacity="1" stop-color="white"/>
+        <stop offset="0.121569" stop-opacity="0.501961" stop-color="white"/>
+        <stop offset="1" stop-opacity="0" stop-color="white"/>
+       </linearGradient>
+      <rect fill="url(#id5)" x="-0.00041" y="0.59964" width="2.18913" height="1.74064"/>
+     </mask>
+     <mask id="id6">
+       <linearGradient id="id7" gradientUnits="userSpaceOnUse" x1="2.73504" y1="0.56751" x2="-0.37992" y2="0.56826">
+        <stop offset="0" stop-opacity="1" stop-color="white"/>
+        <stop offset="1" stop-opacity="0" stop-color="white"/>
+       </linearGradient>
+      <rect fill="url(#id7)" x="0.18718" y="0.54558" width="1.81395" height="0.05488"/>
+     </mask>
+     <mask id="id8">
+       <linearGradient id="id9" gradientUnits="userSpaceOnUse" x1="1.40676" y1="0.14729" x2="1.33401" y2="0.57281">
+        <stop offset="0" stop-opacity="1" stop-color="white"/>
+        <stop offset="1" stop-opacity="0" stop-color="white"/>
+       </linearGradient>
+      <rect fill="url(#id9)" x="0.12287" y="0.2893" width="1.94257" height="0.2571"/>
+     </mask>
+     <mask id="id10">
+       <linearGradient id="id11" gradientUnits="userSpaceOnUse" x1="2.58736" y1="0.05881" x2="0.92911" y2="0.20454">
+        <stop offset="0" stop-opacity="1" stop-color="white"/>
+        <stop offset="1" stop-opacity="0" stop-color="white"/>
+       </linearGradient>
+      <rect fill="url(#id11)" x="0.12287" y="-0.00041" width="1.94257" height="0.29053"/>
+     </mask>
+     <mask id="id12">
+       <radialGradient id="id13" gradientUnits="userSpaceOnUse" cx="0.26853" cy="0.37873" r="0" fx="0.26853" fy="0.37873">
+        <stop offset="0" stop-opacity="1" stop-color="white"/>
+        <stop offset="1" stop-opacity="0" stop-color="white"/>
+       </radialGradient>
+      <rect fill="url(#id13)" x="0.26812" y="0.37832" width="0.84071" height="0.61438"/>
+     </mask>
+     <mask id="id14">
+       <radialGradient id="id15" gradientUnits="userSpaceOnUse" cx="0.43963" cy="2.66326" r="0" fx="0.43963" fy="2.66326">
+        <stop offset="0" stop-opacity="1" stop-color="white"/>
+        <stop offset="0.2" stop-opacity="0.501961" stop-color="white"/>
+        <stop offset="1" stop-opacity="0" stop-color="white"/>
+       </radialGradient>
+      <rect fill="url(#id15)" x="0.43922" y="2.66285" width="0.82069" height="0.59882"/>
+     </mask>
+     <mask id="id16">
+       <linearGradient id="id17" gradientUnits="userSpaceOnUse" x1="1.60684" y1="2.78223" x2="1.55825" y2="3.08755">
+        <stop offset="0" stop-opacity="1" stop-color="white"/>
+        <stop offset="1" stop-opacity="0" stop-color="white"/>
+       </linearGradient>
+      <rect fill="url(#id17)" x="0.16712" y="2.84503" width="1.85407" height="0.16104"/>
+     </mask>
+     <mask id="id18">
+       <linearGradient id="id19" gradientUnits="userSpaceOnUse" x1="2.13677" y1="3.12995" x2="0.58075" y2="3.11769">
+        <stop offset="0" stop-opacity="1" stop-color="white"/>
+        <stop offset="0.321569" stop-opacity="0.501961" stop-color="white"/>
+        <stop offset="1" stop-opacity="0" stop-color="white"/>
+       </linearGradient>
+      <rect fill="url(#id19)" x="0.15445" y="3.00525" width="1.87941" height="0.27762"/>
+     </mask>
+     <mask id="id20">
+       <linearGradient id="id21" gradientUnits="userSpaceOnUse" x1="1.35227" y1="2.23418" x2="1.21613" y2="2.78511">
+        <stop offset="0" stop-opacity="1" stop-color="white"/>
+        <stop offset="0.619608" stop-opacity="0.501961" stop-color="white"/>
+        <stop offset="1" stop-opacity="0" stop-color="white"/>
+       </linearGradient>
+      <rect fill="url(#id21)" x="0.39577" y="2.41349" width="1.39677" height="0.43237"/>
+     </mask>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="vase.cdr">
+   <path id="_2211864050064" fill="#B2B2B2" d="M0.16753 3.00566c-0.0027,0.00012 -0.00733,0.00135 -0.00784,0.00723 -0.0064,0.09493 -0.00665,0.1851 0.00049,0.26957l1.86794 0c0.00714,-0.08447 0.00689,-0.17464 0.00049,-0.26957 -0.00051,-0.00589 -0.00514,-0.00711 -0.00784,-0.00723 -0.12907,-0.00197 -0.20673,-0.05624 -0.22865,-0.16022 -0.22734,-0.05301 -0.26996,-0.31553 -0.07765,-0.43155l0 -0.07403c0.63542,-0.48036 0.52377,-1.46765 0.28625,-1.73982l0 -0.05107c0,-0.00123 -0.00047,-0.00221 -0.00197,-0.003 -0.16654,-0.04897 -0.17129,-0.2558 0.06628,-0.25628 -0.01332,-0.08744 -0.03882,-0.18401 -0.07649,-0.28971l-1.78877 0c-0.03768,0.1057 -0.06317,0.20227 -0.07649,0.28971 0.23757,0.00048 0.23282,0.20731 0.06628,0.25628 -0.00149,0.00079 -0.00197,0.00177 -0.00197,0.003l0 0.05107c-0.23752,0.27217 -0.34918,1.25946 0.28625,1.73982l0 0.07403c0.19231,0.11602 0.14968,0.37854 -0.07765,0.43155 -0.02192,0.10398 -0.09958,0.15825 -0.22865,0.16022z">
+    <metadata id="CorelCorpID_1">
+     <xodm:odm xodm:name="StyleID" xodm:value="Polish" xodm:type="0"/>
+    </metadata>
+   </path>
+   <g>
+    <polygon fill="black" mask="url(#id0)" points="0.47383,2.33987 0.47383,2.4139 1.71447,2.4139 1.71447,2.33987 "/>
+    <path id="_2211864053760" fill="black" mask="url(#id2)" d="M0.18759 0.60005c-0.23752,0.27217 -0.34918,1.25946 0.28625,1.73982l1.24064 0c0.63542,-0.48036 0.52377,-1.46765 0.28625,-1.73982l-1.81313 0z">
+     <metadata id="CorelCorpID_2">
+      <xodm:odm xodm:name="GraniteColor" xodm:value="GeorgiaGray" xodm:type="0"/>
+      <xodm:odm xodm:name="StyleID" xodm:value="Litho" xodm:type="0"/>
+     </metadata>
+    </path>
+    <path id="_2211864052752" fill="black" mask="url(#id4)" d="M0.18759 0.60005c-0.23752,0.27217 -0.34918,1.25946 0.28625,1.73982l1.24064 0c0.63542,-0.48036 0.52377,-1.46765 0.28625,-1.73982l-1.81313 0z">
+     <metadata id="CorelCorpID_3">
+      <xodm:odm xodm:name="GraniteColor" xodm:value="GeorgiaGray" xodm:type="0"/>
+      <xodm:odm xodm:name="StyleID" xodm:value="Litho" xodm:type="0"/>
+     </metadata>
+    </path>
+    <path fill="black" mask="url(#id6)" d="M0.18956 0.54599c-0.00149,0.00079 -0.00197,0.00177 -0.00197,0.003l0 0.05107 1.81313 0 0 -0.05107c0,-0.00123 -0.00047,-0.00221 -0.00197,-0.003l-1.80919 0z"/>
+    <path fill="black" mask="url(#id8)" d="M0.12328 0.28971c0.23757,0.00048 0.23282,0.20731 0.06628,0.25628l1.80919 0c-0.16654,-0.04897 -0.17129,-0.2558 0.06628,-0.25628l-1.94175 0z"/>
+    <path fill="black" mask="url(#id10)" d="M0.19977 0c-0.03768,0.1057 -0.06317,0.20227 -0.07649,0.28971l1.94175 0c-0.01332,-0.08744 -0.03882,-0.18401 -0.07649,-0.28971l-1.78877 0z"/>
+    <path fill="white" mask="url(#id12)" d="M0.65897 0.3806c0.18034,-0.0142 0.34012,0.05358 0.41037,0.16539l-0.74725 -0c0.06625,-0.09033 0.18884,-0.15374 0.33688,-0.16539zm0.43518 0.21945c0.00552,0.0164 0.0115,0.03501 0.0132,0.05253 0.01637,0.16839 -0.15786,0.3197 -0.38908,0.33791 -0.23122,0.0182 -0.43201,-0.10359 -0.44838,-0.27198 -0.00423,-0.04354 0.00117,-0.0792 0.02012,-0.11846l0.80415 0z"/>
+    <path fill="white" mask="url(#id14)" d="M0.86925 2.66407c0.22613,0.01208 0.40064,0.15538 0.38977,0.32006 -0.01087,0.16468 -0.203,0.28839 -0.42913,0.27631 -0.22613,-0.01208 -0.40064,-0.15538 -0.38977,-0.32006 0.01087,-0.16468 0.203,-0.28839 0.42913,-0.27631z"/>
+    <path fill="black" mask="url(#id16)" d="M0.39618 2.84544c-0.02192,0.10398 -0.09958,0.15825 -0.22865,0.16022l1.85325 0c-0.12907,-0.00197 -0.20673,-0.05624 -0.22865,-0.16022l-1.39595 0z"/>
+    <path fill="black" mask="url(#id18)" d="M0.16753 3.00566c-0.0027,0.00012 -0.00733,0.00135 -0.00784,0.00723 -0.0064,0.09493 -0.00665,0.1851 0.00049,0.26957l1.86794 0c0.00714,-0.08447 0.00689,-0.17464 0.00049,-0.26957 -0.00051,-0.00589 -0.00514,-0.00711 -0.00784,-0.00723l-1.85325 0z"/>
+    <path fill="black" mask="url(#id20)" d="M0.47383 2.4139c0.19231,0.11602 0.14968,0.37854 -0.07765,0.43155l1.39595 0c-0.22734,-0.05301 -0.26996,-0.31553 -0.07765,-0.43155l-1.24064 0z"/>
+   </g>
+  </g>
+ </g>
+</svg>
