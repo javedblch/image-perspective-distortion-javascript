@@ -1,0 +1,166 @@
+[
+  {
+    "font_file": "helvetbi.ttf",
+    "font_name": "Monument Helvetica Bold Italic"
+  },
+  {
+    "font_file": "helveti.ttf",
+    "font_name": "Monument Helvetica Italic"
+  },
+  {
+    "font_file": "helvetib.ttf",
+    "font_name": "Monument Helvetica Bold"
+  },
+  {
+    "font_file": "helvetin.ttf",
+    "font_name": "Monument Helvetica"
+  },
+  {
+    "font_file": "mblock.ttf",
+    "font_name": "Monument Block"
+  },
+  {
+    "font_file": "mblockc.ttf",
+    "font_name": "Monument Block Condensed"
+  },
+  {
+    "font_file": "mblockw.ttf",
+    "font_name": "Monument Block  Hand Cut Wide "
+  },
+  {
+    "font_file": "mdantique_v1.002.ttf",
+    "font_name": "MDAntique Bold Italic"
+  },
+  {
+    "font_file": "mdblock.ttf",
+    "font_name": "MDBlock"
+  },
+  {
+    "font_file": "mdgovernment_v1.008.ttf",
+    "font_name": "MDGovernment"
+  },
+  {
+    "font_file": "mdhebrew_v1.001.ttf",
+    "font_name": "MDHebrew"
+  },
+  {
+    "font_file": "mdnormal_v1.000.ttf",
+    "font_name": "MDNormal"
+  },
+  {
+    "font_file": "mdoptimusbolditalic_v1.000.ttf",
+    "font_name": "MDOptimus Bold Italic"
+  },
+  {
+    "font_file": "mdoptimusbold_v1.001.ttf",
+    "font_name": "MDOptimus Bold"
+  },
+  {
+    "font_file": "mdoptimusitalic_v1.000.ttf",
+    "font_name": "MDOptimus Italic"
+  },
+  {
+    "font_file": "mdoptimusregular_v1.001.ttf",
+    "font_name": "MDOptimus Regular"
+  },
+  {
+    "font_file": "mdprimeitalic_v1.001.ttf",
+    "font_name": "MDPrime Italic"
+  },
+  {
+    "font_file": "mdprime_v1.002.ttf",
+    "font_name": "MDPrime Regular"
+  },
+  {
+    "font_file": "mdquadbold_v1.004.ttf",
+    "font_name": "MDQuad Bold"
+  },
+  {
+    "font_file": "mdquadregular_v1.005.ttf",
+    "font_name": "MDQuad"
+  },
+  {
+    "font_file": "mdromancnd_v1.001.ttf",
+    "font_name": "MDRoman Cnd"
+  },
+  {
+    "font_file": "mdroman_v1.008.ttf",
+    "font_name": "MDRoman"
+  },
+  {
+    "font_file": "mdscript_v1.000_0.ttf",
+    "font_name": "MDScript"
+  },
+  {
+    "font_file": "mdshadowinline_v1.001.ttf",
+    "font_name": "MDShadowInline"
+  },
+  {
+    "font_file": "mdshadowoutline_v1.001.ttf",
+    "font_name": "MDShadowOutline"
+  },
+  {
+    "font_file": "mdvermarco.ttf",
+    "font_name": "MDVermarco"
+  },
+  {
+    "font_file": "mgothic.ttf",
+    "font_name": "Monument Gothic"
+  },
+  {
+    "font_file": "mromanb.ttf",
+    "font_name": "Monument Modified Roman Bold"
+  },
+  {
+    "font_file": "mromann.ttf",
+    "font_name": "Monument Modified Roman"
+  },
+  {
+    "font_file": "mromanc.ttf",
+    "font_name": "Monument Modified Roman Condensed"
+  },
+  {
+    "font_file": "palatib.ttf",
+    "font_name": "Monument Palatino Bold Italic"
+  },
+  {
+    "font_file": "palatinb.ttf",
+    "font_name": "Monument Palatino Bold"
+  },
+  {
+    "font_file": "shadow.ttf",
+    "font_name": "Monument Shadow"
+  },
+  {
+    "font_file": "sks.ttf",
+    "font_name": "Monument SKS"
+  },
+  {
+    "font_file": "sksc.ttf",
+    "font_name": "Monument SKS Condensed"
+  },
+  {
+    "font_file": "timesbd0.ttf",
+    "font_name": "Monument Times New Roman Bold"
+  },
+  {
+    "font_file": "timesbi0.ttf",
+    "font_name": "Monument Times New Roman Bold Italic"
+  },
+  {
+    "font_file": "timesi_0.ttf",
+    "font_name": "Monument Times New Roman Italic"
+  },
+  {
+    "font_file": "times__0.ttf",
+    "font_name": "Monument Times New Roman"
+  },
+  {
+    "font_file": "vermarcb.ttf",
+    "font_name": "Monument Vermarco Semi Bold"
+  },
+  {
+    "font_file": "vermarco.ttf",
+    "font_name": "Monument Vermarco"
+  }
+]
