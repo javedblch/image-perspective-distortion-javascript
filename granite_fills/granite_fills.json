@@ -1,0 +1,386 @@
+[
+  {
+    "file_name": "americanblack.png",
+    "pattern_name": "AmericanBlack"
+  },
+  {
+    "file_name": "americanblackhd.png",
+    "pattern_name": "AmericanBlackHD"
+  },
+  {
+    "file_name": "americanrose.png",
+    "pattern_name": "AmericanRose"
+  },
+  {
+    "file_name": "autumnrose.png",
+    "pattern_name": "AutumnRose"
+  },
+  {
+    "file_name": "bahamablue.png",
+    "pattern_name": "BahamaBlue"
+  },
+  {
+    "file_name": "bahamabluenew.png",
+    "pattern_name": "BahamaBlueNew"
+  },
+  {
+    "file_name": "barre.png",
+    "pattern_name": "Barre"
+  },
+  {
+    "file_name": "bellingham.png",
+    "pattern_name": "Bellingham"
+  },
+  {
+    "file_name": "bethelwhite.png",
+    "pattern_name": "BethelWhite"
+  },
+  {
+    "file_name": "bluepearl.png",
+    "pattern_name": "BluePearl"
+  },
+  {
+    "file_name": "bluepearlnew.png",
+    "pattern_name": "BluePearlNew"
+  },
+  {
+    "file_name": "bronze.png",
+    "pattern_name": "Bronze"
+  },
+  {
+    "file_name": "butterflyblue.png",
+    "pattern_name": "ButterflyBlue"
+  },
+  {
+    "file_name": "canadianlaurentiangreen.png",
+    "pattern_name": "CanadianLaurentianGreen"
+  },
+  {
+    "file_name": "canadianlaurentianpink.png",
+    "pattern_name": "CanadianLaurentianPink"
+  },
+  {
+    "file_name": "canadianmahogany.png",
+    "pattern_name": "CanadianMahogany"
+  },
+  {
+    "file_name": "canadianmahoganyhd.png",
+    "pattern_name": "CanadianMahoganyHD"
+  },
+  {
+    "file_name": "carnationpink.png",
+    "pattern_name": "CarnationPink"
+  },
+  {
+    "file_name": "catseye.png",
+    "pattern_name": "CatsEye"
+  },
+  {
+    "file_name": "catyseyehd.png",
+    "pattern_name": "CatysEyeHD"
+  },
+  {
+    "file_name": "chesnutredhd.png",
+    "pattern_name": "ChesnutRedHD"
+  },
+  {
+    "file_name": "chinaevergreenhd.png",
+    "pattern_name": "ChinaEvergreenHD"
+  },
+  {
+    "file_name": "chinagreycoarsehd.png",
+    "pattern_name": "ChinaGreyCoarseHD"
+  },
+  {
+    "file_name": "chinagreyfinehd.png",
+    "pattern_name": "ChinaGreyFineHD"
+  },
+  {
+    "file_name": "chinapinkhd.png",
+    "pattern_name": "ChinaPinkHD"
+  },
+  {
+    "file_name": "cloudgreyhd.png",
+    "pattern_name": "CloudGreyHD"
+  },
+  {
+    "file_name": "coffeebrownhd.png",
+    "pattern_name": "CoffeeBrownHD"
+  },
+  {
+    "file_name": "colonialrose.png",
+    "pattern_name": "ColonialRose"
+  },
+  {
+    "file_name": "colonialrosehd.png",
+    "pattern_name": "ColonialRoseHD"
+  },
+  {
+    "file_name": "coloradorose.png",
+    "pattern_name": "ColoradoRose"
+  },
+  {
+    "file_name": "coloradorosehd.png",
+    "pattern_name": "ColoradoRoseHD"
+  },
+  {
+    "file_name": "confettiblackcoarsehd.png",
+    "pattern_name": "ConfettiBlackCoarseHD"
+  },
+  {
+    "file_name": "confettiblackfinehd.png",
+    "pattern_name": "ConfettiBlackFineHD"
+  },
+  {
+    "file_name": "coralblue.png",
+    "pattern_name": "CoralBlue"
+  },
+  {
+    "file_name": "dakotamahogany.png",
+    "pattern_name": "DakotaMahogany"
+  },
+  {
+    "file_name": "dakotamahoganyhd.png",
+    "pattern_name": "DakotaMahoganyHD"
+  },
+  {
+    "file_name": "darkcloudgreyhd.png",
+    "pattern_name": "DarkCloudGreyHD"
+  },
+  {
+    "file_name": "darkimpalaflashhd.png",
+    "pattern_name": "DarkImpalaFlashHD"
+  },
+  {
+    "file_name": "ebonymist.png",
+    "pattern_name": "EbonyMist"
+  },
+  {
+    "file_name": "emeraldpearlhd.png",
+    "pattern_name": "EmeraldPearlHD"
+  },
+  {
+    "file_name": "fmcoralblue.png",
+    "pattern_name": "FMCoralBlue"
+  },
+  {
+    "file_name": "fmdarkgray.png",
+    "pattern_name": "FMDarkGray"
+  },
+  {
+    "file_name": "fmdarkmahogany.png",
+    "pattern_name": "FMDarkMahogany"
+  },
+  {
+    "file_name": "fmlightgray.png",
+    "pattern_name": "FMLightGray"
+  },
+  {
+    "file_name": "fmlightmahogany.png",
+    "pattern_name": "FMLightMahogany"
+  },
+  {
+    "file_name": "fmmediumgray.png",
+    "pattern_name": "FMMediumGray"
+  },
+  {
+    "file_name": "fmparadisio.png",
+    "pattern_name": "FMParadisio"
+  },
+  {
+    "file_name": "fmpink.png",
+    "pattern_name": "FMPink"
+  },
+  {
+    "file_name": "fmsierrawhite.png",
+    "pattern_name": "FMSierraWhite"
+  },
+  {
+    "file_name": "flashblack.png",
+    "pattern_name": "FlashBlack"
+  },
+  {
+    "file_name": "fujiblue.png",
+    "pattern_name": "FujiBlue"
+  },
+  {
+    "file_name": "galaxyblackhd.png",
+    "pattern_name": "GalaxyBlackHD"
+  },
+  {
+    "file_name": "georgiabluehd.png",
+    "pattern_name": "GeorgiaBlueHD"
+  },
+  {
+    "file_name": "georgiagray.png",
+    "pattern_name": "GeorgiaGray"
+  },
+  {
+    "file_name": "ground.png",
+    "pattern_name": "Ground"
+  },
+  {
+    "file_name": "indiablackhd.png",
+    "pattern_name": "IndiaBlackHD"
+  },
+  {
+    "file_name": "jetblack.png",
+    "pattern_name": "JetBlack"
+  },
+  {
+    "file_name": "keystonegreen.png",
+    "pattern_name": "KeystoneGreen"
+  },
+  {
+    "file_name": "labradorantiquehd.png",
+    "pattern_name": "LabradorAntiqueHD"
+  },
+  {
+    "file_name": "lilacpink.png",
+    "pattern_name": "LilacPink"
+  },
+  {
+    "file_name": "mapleredhd.png",
+    "pattern_name": "MapleRedHD"
+  },
+  {
+    "file_name": "mediumbarrehd.png",
+    "pattern_name": "MediumBarreHD"
+  },
+  {
+    "file_name": "mesabihd.png",
+    "pattern_name": "MesabiHD"
+  },
+  {
+    "file_name": "missourired.png",
+    "pattern_name": "MissouriRed"
+  },
+  {
+    "file_name": "missouriredhd.png",
+    "pattern_name": "MissouriRedHD"
+  },
+  {
+    "file_name": "mocha.png",
+    "pattern_name": "Mocha"
+  },
+  {
+    "file_name": "mongoliangreenhd.png",
+    "pattern_name": "MongolianGreenHD"
+  },
+  {
+    "file_name": "mountainredhd.png",
+    "pattern_name": "MountainRedHD"
+  },
+  {
+    "file_name": "mountainrose.png",
+    "pattern_name": "MountainRose"
+  },
+  {
+    "file_name": "newimperialredhd.png",
+    "pattern_name": "NewImperialRedHD"
+  },
+  {
+    "file_name": "nightblackhd.png",
+    "pattern_name": "NightBlackHD"
+  },
+  {
+    "file_name": "paradisegreen.png",
+    "pattern_name": "ParadiseGreen"
+  },
+  {
+    "file_name": "paradiso.png",
+    "pattern_name": "Paradiso"
+  },
+  {
+    "file_name": "paradisohd.png",
+    "pattern_name": "ParadisoHD"
+  },
+  {
+    "file_name": "pinegreen.png",
+    "pattern_name": "PineGreen"
+  },
+  {
+    "file_name": "pinkpearlhd.png",
+    "pattern_name": "PinkPearlHD"
+  },
+  {
+    "file_name": "premiumred.png",
+    "pattern_name": "PremiumRed"
+  },
+  {
+    "file_name": "rainbowhd.png",
+    "pattern_name": "RainbowHD"
+  },
+  {
+    "file_name": "rainbowuhd.png",
+    "pattern_name": "RainbowUHD"
+  },
+  {
+    "file_name": "redmulticolorhd.png",
+    "pattern_name": "RedMultiColorHD"
+  },
+  {
+    "file_name": "sdpink.png",
+    "pattern_name": "SDPink"
+  },
+  {
+    "file_name": "sdpinkhd.png",
+    "pattern_name": "SDPinkHD"
+  },
+  {
+    "file_name": "silvercloudhd.png",
+    "pattern_name": "SIlverCloudHD"
+  },
+  {
+    "file_name": "salisburypinkhd.png",
+    "pattern_name": "SalisburyPinkHD"
+  },
+  {
+    "file_name": "salsburypink.png",
+    "pattern_name": "SalsburyPink"
+  },
+  {
+    "file_name": "seashellpinkhd.png",
+    "pattern_name": "SeashellPinkHD"
+  },
+  {
+    "file_name": "silverbronzehd.png",
+    "pattern_name": "SilverBronzeHD"
+  },
+  {
+    "file_name": "silverpearlhd.png",
+    "pattern_name": "SilverPearlHD"
+  },
+  {
+    "file_name": "stcloud.png",
+    "pattern_name": "StCloud"
+  },
+  {
+    "file_name": "sunsetred.png",
+    "pattern_name": "SunsetRed"
+  },
+  {
+    "file_name": "sunsetredhd.png",
+    "pattern_name": "SunsetRedHD"
+  },
+  {
+    "file_name": "tajaurorahd.png",
+    "pattern_name": "TajAuroraHD"
+  },
+  {
+    "file_name": "tanbrownhd.png",
+    "pattern_name": "TanBrownHD"
+  },
+  {
+    "file_name": "tropicalgreen.png",
+    "pattern_name": "TropicalGreen"
+  },
+  {
+    "file_name": "wausauhd.png",
+    "pattern_name": "WausauHD"
+  },
+  {
+    "file_name": "whitemarble.png",
+    "pattern_name": "WhiteMarble"
+  }
+]
