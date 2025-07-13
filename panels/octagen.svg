@@ -1,3 +1,3 @@
 <svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
-  <polygon points="40,10 80,10 110,40 110,80 80,110 40,110 10,80 10,40" fill="#e5e5e5" stroke="black" />
+  <path fill="#e5e5e5" stroke="black" d="M40 10L80 10L110 40L110 80L80 110L40 110L10 80L10 40z" />
 </svg>
