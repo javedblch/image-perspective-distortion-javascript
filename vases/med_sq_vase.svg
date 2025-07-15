@@ -7,6 +7,6 @@ viewBox="0 0 0.38345 0.7643"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <polygon fill="#B2B2B2" points="0.04053,0.7643 0.34292,0.7643 0.38345,0 -0,0 "/>
+  <polygon fill="gray" points="0.04053,0.7643 0.34292,0.7643 0.38345,0 -0,0 "/>
  </g>
 </svg>
